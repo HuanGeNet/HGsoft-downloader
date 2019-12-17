@@ -4,4 +4,5 @@
 源网站http://soft.tinybad.cn/
 
 演示地址：https://huangenet.github.io/HGsoft-downloader/
-gitee码云：https://huangenet.gitee.io/hgsoft-downloader-master/
+<br>
+gitee码云：https://huangenet.gitee.io/hgsoft-downloader
